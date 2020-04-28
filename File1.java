@@ -5,6 +5,7 @@ class Myclass{
 	}
         public static void main(){
 		//main method
+                // change new method
 	}
       
 }
