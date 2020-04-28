@@ -1,14 +1,14 @@
 
 class Myclass{
 
-       private static void myMethod(){	
-         //new method
+
+	private static String myMethod(){	
+          
   		return "method";
 	}
         public static void main(){
-	
-		myMethod("Hello .world !!");
-
+		
+                  obj.myMethod("Hello .world !!");
 	}
       
 }
