@@ -1,11 +1,11 @@
 
 class Myclass{
-       void myMethod(){	
+       static void myMethod(){	
           //new method
 	}
         public static void main(){
-		//main method
-                // change new method
+		
+		myMethod("Hello .world !!");
 	}
       
 }
